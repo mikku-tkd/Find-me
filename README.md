@@ -2,28 +2,26 @@
 
 
 
-# [Project Name] 🎯
+# [Find Me] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [mikhdad team]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: [mikhdad] - [Duxford Edupark]
 
 
 ### Project Description
-[2-3 lines about what your project does]
+[user can't click button]
 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [html]
+- [html]
 
 
 ### Project Documentation
